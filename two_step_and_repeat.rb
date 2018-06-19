@@ -34,6 +34,7 @@ first_steps
       sleep(0.5)
       puts "Turn"
       sleep(1)
+      break
     end
   end
   
@@ -50,6 +51,7 @@ first_steps
     else 
       puts "Right"
     sleep(0.5)
+    break 
     end
     end 
   end
