@@ -14,7 +14,7 @@
     end
   end
 
-first_stepsç
+first_steps
   
   def a_few_more_steps
     loop do
