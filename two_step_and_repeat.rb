@@ -31,7 +31,7 @@
     end
   end
   
-   a_few_more_steps
+   first_steps
   
   
   def how_many_steps?
