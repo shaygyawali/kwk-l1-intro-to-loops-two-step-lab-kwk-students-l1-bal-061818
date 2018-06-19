@@ -50,6 +50,7 @@ first_stepsç
     else 
       puts "Right"
     if steps > 10 
+    sleep(0.5)
       break
     end
     end
