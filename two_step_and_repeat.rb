@@ -14,7 +14,7 @@
     end
   end
   
-  # first_steps
+  first_steps
   
   def a_few_more_steps
     loop do
@@ -37,7 +37,7 @@
     end
   end
   
-  # a_few_more_steps
+   a_few_more_steps
   
   
   def how_many_steps?
