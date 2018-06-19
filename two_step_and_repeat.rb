@@ -59,8 +59,7 @@ first_steps
   how_many_steps?
   
   def break_dance
-    steps = 0 
-    until steps == 6
+loop do 
     puts "Right foot back"
       sleep(0.5)
       puts "Left foot back"
@@ -77,7 +76,7 @@ first_steps
       sleep(0.5)
       puts "Turn"
       sleep(1)
-      steps += 1 
+  break 
       end
     end
       
