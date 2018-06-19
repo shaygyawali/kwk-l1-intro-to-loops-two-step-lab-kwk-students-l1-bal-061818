@@ -79,8 +79,6 @@ first_steps
       puts "Turn"
       sleep(1)
       steps += 1
-        if steps == 6
-          break
         end
       end
     end
