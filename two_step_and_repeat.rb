@@ -77,8 +77,7 @@ first_steps
       sleep(0.5)
       puts "Turn"
       sleep(1)
-      steps += 1
-        end
+      steps += 1 
       end
     end
       
