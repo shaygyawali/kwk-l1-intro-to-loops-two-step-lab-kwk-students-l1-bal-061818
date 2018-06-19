@@ -61,7 +61,6 @@ first_steps
   def break_dance
     steps = 0 
     until steps == 6
-    loop do 
     puts "Right foot back"
       sleep(0.5)
       puts "Left foot back"
